@@ -1,0 +1,759 @@
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\appsettings.json
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.exe
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.deps.json
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.runtimeconfig.json
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.pdb
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Common.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.csproj.AssemblyReference.cache
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.AssemblyInfoInputs.cache
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.AssemblyInfo.cs
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.csproj.CoreCompileInputs.cache
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets\msbuild.EdFacilitiesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.EdFacilitiesAPI.props
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EdFacilitiesAPI.props
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EdFacilitiesAPI.props
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\scopedcss\bundle\EdFacilitiesAPI.styles.css
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.csproj.CopyComplete
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\refint\EdFacilitiesAPI.dll
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.pdb
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.genruntimeconfig.cache
+C:\Main\University\WEB\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\ref\EdFacilitiesAPI.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\appsettings.json
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.exe
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.deps.json
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.runtimeconfig.json
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.pdb
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Common.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.csproj.AssemblyReference.cache
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.AssemblyInfoInputs.cache
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.AssemblyInfo.cs
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.csproj.CoreCompileInputs.cache
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets\msbuild.EdFacilitiesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.EdFacilitiesAPI.props
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EdFacilitiesAPI.props
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EdFacilitiesAPI.props
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\scopedcss\bundle\EdFacilitiesAPI.styles.css
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.csproj.CopyComplete
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\refint\EdFacilitiesAPI.dll
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.pdb
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.genruntimeconfig.cache
+C:\Main\University\WEB\+\Diana Sushko\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\ref\EdFacilitiesAPI.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.exe
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.deps.json
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.runtimeconfig.json
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\EdFacilitiesAPI.pdb
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.AssemblyInfoInputs.cache
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.AssemblyInfo.cs
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets\msbuild.EdFacilitiesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.EdFacilitiesAPI.props
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EdFacilitiesAPI.props
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EdFacilitiesAPI.props
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\scopedcss\bundle\EdFacilitiesAPI.styles.css
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.csproj.CopyComplete
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\refint\EdFacilitiesAPI.dll
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.pdb
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\EdFacilitiesAPI.genruntimeconfig.cache
+C:\Users\Diana\Desktop\EdFacilitiesAPI\EdFacilitiesAPI\obj\Debug\net7.0\ref\EdFacilitiesAPI.dll
