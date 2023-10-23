@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using EdFacilitiesAPI.Models;
 using static System.Net.WebRequestMethods;
+using Microsoft.AspNetCore.Http.Extensions;
 
 namespace EdFacilitiesAPI.Controllers
 {
@@ -35,27 +36,17 @@ namespace EdFacilitiesAPI.Controllers
                      .Take(parameters.PageSize)
                      .ToListAsync();
 
-            var response = new List<Object>
+            var link = new Uri(Request.GetDisplayUrl()).GetLeftPart(UriPartial.Authority);
+            var response = new
             {
-                categories
-            };
-
-            var link = "https://localhost:7253";
-            var variable = Environment.GetEnvironmentVariable("applicationUrl");
-            if (variable != null)
-            {
-                link = variable.Split(";")[0];
-            }
-            var nextLink = new
-            {
-                nextLink = link +
+                nextLink = link +  //response.nextLink
                 "/api/Categories?PageNumber=" +
                 (parameters.PageNumber + 1) +
                 "&PageSize=" +
-                parameters.PageSize
-            };
+                parameters.PageSize,
 
-            response.Add(nextLink);
+                values = categories  //response.values
+            };
 
             return Ok(response);
         }

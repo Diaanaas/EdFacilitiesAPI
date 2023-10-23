@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using EdFacilitiesAPI.Models;
+using Microsoft.AspNetCore.Http.Extensions;
 
 namespace EdFacilitiesAPI.Controllers
 {
@@ -34,27 +35,17 @@ namespace EdFacilitiesAPI.Controllers
                        .Take(parameters.PageSize)
                        .ToListAsync();
 
-            var response = new List<Object>
-            {
-                facilites
-            };
-
-            var link = "https://localhost:7253";
-            var variable = Environment.GetEnvironmentVariable("applicationUrl");
-            if (variable != null)
-            {
-                link = variable.Split(";")[0];
-            }
-            var nextLink = new
+            var link = new Uri(Request.GetDisplayUrl()).GetLeftPart(UriPartial.Authority);
+            var response = new
             {
                 nextLink = link +
                 "/api/Facilities?PageNumber=" +
                 (parameters.PageNumber + 1) +
                 "&PageSize=" +
-                parameters.PageSize
-            };
+                parameters.PageSize,
 
-            response.Add(nextLink);
+                values = facilites
+            };
 
             return Ok(response);
         }
